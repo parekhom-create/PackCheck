@@ -1,0 +1,12 @@
+GENERATE_INFOPLIST_FILE = YES
+INFOPLIST_KEY_CFBundleDisplayName = PackCheck
+INFOPLIST_KEY_NSCameraUsageDescription = PackCheck uses the camera to scan barcodes and read ingredient labels.
+INFOPLIST_KEY_UILaunchScreen_Generation = YES
+CODE_SIGN_STYLE = Automatic
+PRODUCT_BUNDLE_IDENTIFIER = com.packcheck.prototype
+PRODUCT_NAME = $(TARGET_NAME)
+SWIFT_VERSION = 5.0
+TARGETED_DEVICE_FAMILY = 1
+SUPPORTED_PLATFORMS = iphoneos iphonesimulator
+MARKETING_VERSION = 1.1
+CURRENT_PROJECT_VERSION = 2
